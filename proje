@@ -38,3 +38,6 @@ def reverseList(list):
 
 print(f"Reversed function is: {reverseList(list)}") #used f-string method
 
+
+www.patika.dev
+
